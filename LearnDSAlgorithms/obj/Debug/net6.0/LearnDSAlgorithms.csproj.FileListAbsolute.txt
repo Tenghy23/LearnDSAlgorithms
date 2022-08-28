@@ -1,0 +1,15 @@
+C:\Users\Tengh\source\repos\LearnDSAlgorithms\LearnDSAlgorithms\bin\Debug\net6.0\LearnDSAlgorithms.exe
+C:\Users\Tengh\source\repos\LearnDSAlgorithms\LearnDSAlgorithms\bin\Debug\net6.0\LearnDSAlgorithms.deps.json
+C:\Users\Tengh\source\repos\LearnDSAlgorithms\LearnDSAlgorithms\bin\Debug\net6.0\LearnDSAlgorithms.runtimeconfig.json
+C:\Users\Tengh\source\repos\LearnDSAlgorithms\LearnDSAlgorithms\bin\Debug\net6.0\LearnDSAlgorithms.dll
+C:\Users\Tengh\source\repos\LearnDSAlgorithms\LearnDSAlgorithms\bin\Debug\net6.0\LearnDSAlgorithms.pdb
+C:\Users\Tengh\source\repos\LearnDSAlgorithms\LearnDSAlgorithms\obj\Debug\net6.0\LearnDSAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Tengh\source\repos\LearnDSAlgorithms\LearnDSAlgorithms\obj\Debug\net6.0\LearnDSAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tengh\source\repos\LearnDSAlgorithms\LearnDSAlgorithms\obj\Debug\net6.0\LearnDSAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Tengh\source\repos\LearnDSAlgorithms\LearnDSAlgorithms\obj\Debug\net6.0\LearnDSAlgorithms.AssemblyInfo.cs
+C:\Users\Tengh\source\repos\LearnDSAlgorithms\LearnDSAlgorithms\obj\Debug\net6.0\LearnDSAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Tengh\source\repos\LearnDSAlgorithms\LearnDSAlgorithms\obj\Debug\net6.0\LearnDSAlgorithms.dll
+C:\Users\Tengh\source\repos\LearnDSAlgorithms\LearnDSAlgorithms\obj\Debug\net6.0\refint\LearnDSAlgorithms.dll
+C:\Users\Tengh\source\repos\LearnDSAlgorithms\LearnDSAlgorithms\obj\Debug\net6.0\LearnDSAlgorithms.pdb
+C:\Users\Tengh\source\repos\LearnDSAlgorithms\LearnDSAlgorithms\obj\Debug\net6.0\LearnDSAlgorithms.genruntimeconfig.cache
+C:\Users\Tengh\source\repos\LearnDSAlgorithms\LearnDSAlgorithms\obj\Debug\net6.0\ref\LearnDSAlgorithms.dll
